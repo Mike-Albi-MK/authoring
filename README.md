@@ -5,29 +5,29 @@ requested assignment
 
 Here are some of your favorite tasks
 
-- [x ] External Link <a name="#External Link"></a>
-- [x ] Internal Link <a name="#Internal Link"></a>
-- [x ] Images <a name="#Images"></a>
-- [x ] Emojis <a name="#Emojis"></a>
-- [x ] Tables <a name="#Tables"></a>
+- [x ] External Link 
+- [x ] Internal Link 
+- [x ] Images 
+- [x ] Emojis 
+- [x ] Tables 
 
 
 
-## [External Link](#External Link)
+## External Link
 
 Check out [https://mars.nasa.gov/multimedia/resources/mars-posters-explorers-wanted/]
 
-### [Internal Link](#Internal Link)
+### Internal Link
 
-#### [Images](#Images)
+#### Images
 
 Look at this ![mars elephants are real](elephant_mars.jpg)
 
-##### [Emojis](#Emojis) 
+##### Emojis
 
 🥵
 
-###### [Tables](#Tables) 
+###### Tables
 
 |        |Letters    |Number      |
 |--------|-----------|------------|
