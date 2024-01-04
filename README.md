@@ -7,27 +7,27 @@ Here are some of your favorite tasks
 
 - [x ] <a name="#External Link"></a>
 - [x ] <a name="#Internal Link"></a>
-- [x ] <a name="#Images"<>/a>
+- [x ] <a name="#Images"></a>
 - [x ] <a name="#Emojis"></a>
 - [x ] <a name="#Tables"></a>
 
 
 
-## [External Link](#external link)
+## [External Link](#External Link)
 
 Check out [https://mars.nasa.gov/multimedia/resources/mars-posters-explorers-wanted/]
 
-### [Internal Link](#internal link)
+### [Internal Link](#Internal Link)
 
-#### [Images](#images)
+#### [Images](#Images)
 
 Look at this ![mars elephants are real](elephant_mars.jpg)
 
-##### [Emojis](#emojis) 
+##### [Emojis](#Emojis) 
 
 🥵
 
-###### [Tables](#tables) 
+###### [Tables](#Tables) 
 
 |        |Letters    |Number      |
 |--------|-----------|------------|
