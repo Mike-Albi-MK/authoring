@@ -5,11 +5,11 @@ requested assignment
 
 Here are some of your favorite tasks
 
-- [x ] <a name="#External Link"></a>
-- [x ] <a name="#Internal Link"></a>
-- [x ] <a name="#Images"></a>
-- [x ] <a name="#Emojis"></a>
-- [x ] <a name="#Tables"></a>
+- [x ] External Link <a name="#External Link"></a>
+- [x ] Internal Link <a name="#Internal Link"></a>
+- [x ] Images <a name="#Images"></a>
+- [x ] Emojis <a name="#Emojis"></a>
+- [x ] Tables <a name="#Tables"></a>
 
 
 
