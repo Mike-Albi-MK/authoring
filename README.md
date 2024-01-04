@@ -24,4 +24,12 @@ Look at this ![mars elephants are real](elephant_mars.jpg)
 
 ##### Emojis 
 
+:hotface:
+
 ###### Tables 
+
+|        |Letters  |Number    |
+|--------|---------|----------|
+|========|---------|----------|
+|Row 1   |a,b,c,d,e|1,2,3,4,5 |
+|Row 2   |f,g,h,i,k|6,7,8,9,10|
