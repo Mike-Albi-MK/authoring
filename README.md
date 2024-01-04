@@ -17,7 +17,7 @@ Here are some of your favorite tasks
 
 Check out [https://mars.nasa.gov/multimedia/resources/mars-posters-explorers-wanted/]
 
-### [Internal Link](#internal link)
+### [Internal Link](#internal-link)
 
 #### Images
 
