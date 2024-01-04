@@ -20,6 +20,8 @@ Check out [https://mars.nasa.gov/multimedia/resources/mars-posters-explorers-wan
 
 #### Images
 
+Look at this ![mars elephants are real](elephant_mars.jpg)
+
 ##### Emojis 
 
 ###### Tables 
