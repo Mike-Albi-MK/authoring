@@ -12,7 +12,7 @@ Here are some of your favorite tasks
 [x ] Tables
 
 
-## [External Link](External Link)
+## [External Link]([ ] External Link)
 
 Check out [https://mars.nasa.gov/multimedia/resources/mars-posters-explorers-wanted/]
 
@@ -32,5 +32,3 @@ Look at this ![mars elephants are real](elephant_mars.jpg)
 |--------|-----------|------------|
 |Row 1   |a,b,c,d,e  |1,2,3,4,5   |
 |Row 2   |f,g,h,i,k  |6,7,8,9,10  |
-
-![NASA recruits](mars_explorers_wanted.jpg)
